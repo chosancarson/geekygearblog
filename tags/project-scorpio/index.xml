@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Project Scorpio on The Geeky Gear Blog</title>
+    <link>http://chosancarson.github.io/geekygearblog/tags/project-scorpio/</link>
+    <description>Recent content in Project Scorpio on The Geeky Gear Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 13 Jun 2016 22:04:36 -0700</lastBuildDate>
+    <atom:link href="http://chosancarson.github.io/geekygearblog/tags/project-scorpio/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>E32016 Project Scorpio WTF is a teraflop</title>
+      <link>http://chosancarson.github.io/geekygearblog/2016/06/13/e32016-project-scorpio-wtf-is-a-teraflop</link>
+      <pubDate>Mon, 13 Jun 2016 22:04:36 -0700</pubDate>
+      
+      <guid>http://chosancarson.github.io/geekygearblog/2016/06/13/e32016-project-scorpio-wtf-is-a-teraflop</guid>
+      <description>
+
+&lt;h2 id=&#34;what-is-project-scorpio:99411af4bada0ea30c24c10ca809999e&#34;&gt;What is Project Scorpio?&lt;/h2&gt;
+
+&lt;p&gt;Here is the E3 announcement video.&lt;/p&gt;
+
+&lt;p&gt;&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/Q-JO61zNhhI&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;They&amp;rsquo;re billing it as the most powerful console ever.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Microsoft says the machine will run at a performance speed of six teraflops and support both 4K gaming and ‘high fidelity VR.’ They’re touting the new GPU’s power and speed, promising a major boost. “I think it’s gonna be magical,” Bethesda’s Todd Howard said. &lt;a href=&#34;http://kotaku.com/microsoft-announces-project-scorpio-1781897948&#34;&gt;-via kotaku&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;From this statement we get the impression that Project Scorpio is fairly impressive. Considering an entry level gaming pc would struggle to output 4k resolutions at a playable level and something like the HTC vive would run poorly if it ran at all. Then there is the six teraflops statement. They toss it around like the average consumer would know what that means or why it&amp;rsquo;s significant.&lt;/p&gt;
+
+&lt;h2 id=&#34;six-teraflops:99411af4bada0ea30c24c10ca809999e&#34;&gt;Six  teraflops&lt;/h2&gt;
+
+&lt;p&gt;To understand why 6 teraflops is significant you must first understand that a teraflop means the computer can calculate 1 trillion flops or floating point calculations a second. In simplest terms floating point calculations means adding and subtracting  numbers that have a decimal point. Think about that for a second a computer that runs at 1 teraflop can add and subtract a trillion numbers in one second.&lt;br /&gt;
+Project Scorpio will run at 6 teraflops. Lets put that in perspective.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;A simple calculator runs at about 10 flops a second.&lt;/li&gt;
+&lt;li&gt;Intel pentium 4 @ 3 Ghz hits about 3-5 gigaflops or 3-5 Billion flops a second.&lt;/li&gt;
+&lt;li&gt;A core i7 can run anywhere from 50-100 gigaflops with intergrated graphics.&lt;/li&gt;
+&lt;li&gt;A low end $100 video card like the &lt;a href=&#34;http://amzn.to/1UaTMfG&#34;&gt;Nvidia GTX 750&lt;/a&gt; can hit 1 teraflop&lt;/li&gt;
+&lt;li&gt;xbox one 1.3 teraflops&lt;/li&gt;
+&lt;li&gt;ps4 1.8 teraflops&lt;/li&gt;
+&lt;li&gt;mid range $250-$300 video card like &lt;a href=&#34;http://amzn.to/24OtJdJ&#34;&gt;Nvidia gtx 970&lt;/a&gt; will hit 3.4 teraflops&lt;/li&gt;
+&lt;li&gt;project Scorpio sits right here at 6 teraflops.&lt;/li&gt;
+&lt;li&gt;high end $600 video card like &lt;a href=&#34;http://amzn.to/24OtK1o&#34;&gt;Nvidia gtx 1080&lt;/a&gt; will go up to 8.8 teraflops.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I&amp;rsquo;d wager by the time the Scorpio hits market there will most likely be a mid range video card that will push past 6 teraflops. Meaning you could build a gaming pc for about $600 that would surpass project scorpio&amp;rsquo;s 6 teraflops capabilities.&lt;/p&gt;
+
+&lt;p&gt;That being said theres more to determining how well a computer will run aside from raw processing power and specs. Memory bandwidth, hard drive speed, cpu architecture, motherboard design, system cooling and other factors can effect how well a PC or console performs. The only way to really test a machine&amp;rsquo;s capabilities is to play real games on it and benchmark it.&lt;/p&gt;
+
+&lt;p&gt;Bottom line is if the Scorpio came out this year, based just on the specs it would be an amazing console and would probably be as good or better than most low to mid range gaming PC&amp;rsquo;s. A year and a half from now I&amp;rsquo;m not so sure.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
